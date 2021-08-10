@@ -13,3 +13,9 @@ If there was not errors during the adquisition of the fisheye visible light imag
 The sun_position.csv that contains elevation and azimuth angle of the solar tracker updated every seconds are interpolated to the sampling interval of the pyranometer in pyranometer.csv copy_csv_files.py.
 
 The weather features in weather_station.csv are interpolated to the resolution pyranometer samples in pyranometer.csv, and save in a folder called /weather_station in the repository directory with the date /yyyy_mm_dd using copy_weather_station_files.py.
+
+The file remove_images.py removes begging and ending infrared and visible image that have not pyranometer a sample.
+
+## Pickle Files
+
+The repository files are updated and transformed to python readable single pickle files that contain all the data of a day. The file to perform this action is pickle_files.py.
