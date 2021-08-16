@@ -21,3 +21,7 @@ The file remove_images.py removes begging and ending infrared and visible image 
 ## Pickle Files
 
 The repository files are updated and transformed to python readable single pickle files that contains all the data of a day. The file to perform this action is pickle_files.py. The files are their data as name yyy_mm_dd.pkl
+
+## Weather Station
+
+The notebook that shows how to access to the weather station is download_weather_station_data.ipynb.
