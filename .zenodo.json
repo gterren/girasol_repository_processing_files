@@ -1,0 +1,36 @@
+{
+    "description": "<p>This repository contains the software necessary to process the data in the Girasol Machine and upload it to the Girasol Dataset permanent repository</p><p>See journal article: <a href='https://www.sciencedirect.com/science/article/pii/S2352340921001980'>https://www.sciencedirect.com/science/article/pii/S2352340921001980</a></p><p>See realated data: <a href='https://doi.org/10.5061/dryad.zcrjdfn9m'>https://doi.org/10.5061/dryad.zcrjdfn9m</a></p>", 
+    "license": "Apache-2.0", 
+    "title": "Visualization of Multiple Wind Velocity Fields in Ground-Based Sky Images", 
+    "upload_type": "software", 
+    "publication_date": "2022-08-17", 
+    "creators": [
+        {
+            "affiliation": "University of New Mexico", 
+            "name": "Guillermo Terrén-Serrano"
+        },    
+    ], 
+    "access_right": "open", 
+    "grants":[
+        {
+            "id": "10.13039/100000001::1757207"
+        }
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/gterren/girasol_repository_processing_files", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5061/dryad.zcrjdfn9m", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.1016/j.dib.2021.106914", 
+            "relation": "isSupplementTo"
+        }
+    ]
+}
