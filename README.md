@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/394789584.svg)](https://zenodo.org/badge/latestdoi/394789584)
+
 # Girasol Repository Processing Files
 
 This repository contains the files needed to process the data in the Girasol Machine and upload it to the Girasol Dataset repository in DRYAD: https://doi.org/10.5061/dryad.zcrjdfn9m.
