@@ -1,5 +1,5 @@
 {
-    "description": "<p>This repository contains the software necessary to process the data in the Girasol Machine and upload it to the Girasol Dataset permanent repository</p><p>See journal article: <a href='https://www.sciencedirect.com/science/article/pii/S2352340921001980'>https://www.sciencedirect.com/science/article/pii/S2352340921001980</a></p><p>See realated data: <a href='https://doi.org/10.5061/dryad.zcrjdfn9m'>https://doi.org/10.5061/dryad.zcrjdfn9m</a></p>", 
+    "description": "<p>This repository contains the software necessary to process the data in the Girasol Machine and upload it to the Girasol Dataset permanent repository</p><p>See journal article: <a href='https://www.sciencedirect.com/science/article/pii/S2352340921001980'>https://www.sciencedirect.com/science/article/pii/S2352340921001980</a></p><p>See realated data: <a href='https://doi.org/10.5061/dryad.zcrjdfn9m'>https://doi.org/10.5061/dryad.zcrjdfn9m</a></p><p>Additional funding was provided by the King Felipe VI Endowed Chair of the University of New Mexico.</p>", 
     "license": "Apache-2.0", 
     "title": "Visualization of Multiple Wind Velocity Fields in Ground-Based Sky Images", 
     "upload_type": "software", 
@@ -8,7 +8,7 @@
         {
             "affiliation": "University of New Mexico", 
             "name": "Guillermo Terrén-Serrano"
-        },    
+        }    
     ], 
     "access_right": "open", 
     "grants":[
